@@ -1,7 +1,7 @@
 {
   "basics": {
     "name": "William Espinoza García Javier",
-    "label": "Software Developer & UX UI Designer",
+    "label": "Desarrollador de Software Y Diseñador UX/UI",
     "image": "https://avatars.githubusercontent.com/u/131618521?s=400&u=3ef3e67e245ef5827d3f95b6acc1b53c09f913e1&v=4",
     "email": "espinozaw657@gmail.com",
     "phone": "(507) 6243-9473",
@@ -50,10 +50,17 @@
   ],
   "education": [
     {
+      "institution": "Colegio Francisco Ignacio Castillero",
+      "area": "Bachiller en Ciencias",
+      "startDate": "2015-04-05",
+      "endDate": "2020-12-10",
+      "score": "2.55"
+    },
+    {
       "institution": "Universidad Tecnológica de Panamá",
-      "area": "Licenciatura en Desarrollo de Software",
+      "area": "Licenciado en Desarrollo de Software",
       "startDate": "2021-04-05",
-      "endDate": "2024-12-10",
+      "endDate": "2025-12-10",
       "score": "2.55"
     }
   ],
