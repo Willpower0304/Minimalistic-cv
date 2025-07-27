@@ -116,12 +116,27 @@
       "keywords": ["Desarrollo Web", "Frontend"]
     },
     {
+      "name": "Java",
+      "level": "Master",
+      "keywords": ["Desarrollo Web", "Backend"]
+    },
+    {
+      "name": "Android Studio",
+      "level": "Master",
+      "keywords": ["Desarrollo Web", "Backend"]
+    },
+    {
       "name": "MYSQL",
       "level": "Master",
       "keywords": ["Desarrollo Web", "Frontend"]
     },
     {
       "name": "Git",
+      "level": "Master",
+      "keywords": ["Desarrollo Web", "Frontend"]
+    },
+    {
+      "name": "GitHub",
       "level": "Master",
       "keywords": ["Desarrollo Web", "Frontend"]
     },
@@ -187,6 +202,13 @@
       "description": "Pagina web Minimalista hecha con React JS.",
       "highlights": ["Minimalismo", "web responsive, React JS"],
       "url": "https://minimalistic-website.netlify.app/"
+    },
+    {
+      "name": "Registro e Inicio de Sesion",
+      "isActive": true,
+      "description": "Registro e inicio de sesión con validación de datos.",
+      "highlights": ["Autenticación", "jsonwebtoken, db-local"],
+      "url": "https://github.com/Willpower0304/login-form"
     }
   ]
 }
