@@ -209,6 +209,13 @@
       "description": "Registro e inicio de sesión con validación de datos.",
       "highlights": ["Autenticación", "jsonwebtoken, db-local"],
       "url": "https://github.com/Willpower0304/login-form"
+    },
+    {
+      "name": "Pokemon Api React JS",
+      "isActive": true,
+      "description": "Pokedex Moderna hecha con React JS.",
+      "highlights": ["API", "Pokemon Api, React JS, Tailwind CSS"],
+      "url": "https://github.com/Willpower0304/Pokedex-API"
     }
   ]
 }
